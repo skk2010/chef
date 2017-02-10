@@ -5,7 +5,7 @@
 	path = ntp
 	url = https://github.com/chef-cookbooks/ntp.git
 [submodule "cheif_nginx"]
-	path = cheif_nginx
+	path = chef_nginx
 	url = https://github.com/chef-cookbooks/chef_nginx.git
 [submodule "sudo"]
 	path = sudo
