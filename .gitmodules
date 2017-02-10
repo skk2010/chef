@@ -1,0 +1,21 @@
+[submodule "users"]
+	path = users
+	url = https://github.com/chef-cookbooks/users.git
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/chef-cookbooks/ntp.git
+[submodule "cheif_nginx"]
+	path = cheif_nginx
+	url = https://github.com/chef-cookbooks/chef_nginx.git
+[submodule "sudo"]
+	path = sudo
+	url = https://github.com/chef-cookbooks/sudo.git
+[submodule "cron"]
+	path = cron
+	url = https://github.com/chef-cookbooks/cron.git
+[submodule "yum"]
+	path = yum
+	url = https://github.com/chef-cookbooks/yum.git
+[submodule "build-essential"]
+	path = build-essential
+	url = https://github.com/chef-cookbooks/build-essential.git
