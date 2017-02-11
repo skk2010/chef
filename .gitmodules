@@ -22,3 +22,6 @@
 [submodule "ohai"]
 	path = ohai
 	url = https://github.com/chef-cookbooks/ohai.git
+[submodule "yum-epel"]
+	path = yum-epel
+	url = https://github.com/chef-cookbooks/yum-epel.git
