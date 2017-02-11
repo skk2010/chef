@@ -40,3 +40,6 @@
 [submodule "nginx"]
 	path = nginx
 	url = https://github.com/miketheman/nginx.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/chef-cookbooks/apt.git
