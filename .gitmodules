@@ -37,3 +37,6 @@
 [submodule "ruby-ng"]
 	path = ruby-ng
 	url = https://github.com/3ofcoins/chef-cookbook-ruby-ng.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/miketheman/nginx.git
