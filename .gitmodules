@@ -25,3 +25,6 @@
 [submodule "yum-epel"]
 	path = yum-epel
 	url = https://github.com/chef-cookbooks/yum-epel.git
+[submodule "runit"]
+	path = runit
+	url = https://github.com/chef-cookbooks/runit.git
