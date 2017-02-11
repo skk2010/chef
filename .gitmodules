@@ -31,3 +31,6 @@
 [submodule "opworks_ruby"]
 	path = opworks_ruby
 	url = https://github.com/ajgon/opsworks_ruby.git
+[submodule "deployer"]
+	path = deployer
+	url = https://github.com/sethvargo-cookbooks/deployer.git
