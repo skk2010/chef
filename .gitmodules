@@ -29,7 +29,7 @@
 	path = runit
 	url = https://github.com/chef-cookbooks/runit.git
 [submodule "opworks_ruby"]
-	path = opworks_ruby
+	path = opsworks_ruby
 	url = https://github.com/ajgon/opsworks_ruby.git
 [submodule "deployer"]
 	path = deployer
