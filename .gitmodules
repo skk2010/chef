@@ -43,3 +43,6 @@
 [submodule "apt"]
 	path = apt
 	url = https://github.com/chef-cookbooks/apt.git
+[submodule "aws-sj"]
+	path = aws-sj
+	url = https://github.com/skk2010/aws-sj.git
